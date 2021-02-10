@@ -6,7 +6,7 @@
 
 Youtube:
 
----
+https://www.youtube.com/watch?v=GYbNqcS-o1w
 
 ### 1. Install NVIDIA dirver
 
