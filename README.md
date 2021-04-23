@@ -137,6 +137,10 @@ I choose:
 	Run this Command:	Download here (Pre-cxx11 ABI):
 
 https://download.pytorch.org/libtorch/cu102/libtorch-shared-with-deps-1.6.0.zip
+
+#### Command line download option use wget
+
+	$ wget https://download.pytorch.org/libtorch/cu102/libtorch-shared-with-deps-1.6.0.zip
 				
 
 ### 13. 	Make some directories
