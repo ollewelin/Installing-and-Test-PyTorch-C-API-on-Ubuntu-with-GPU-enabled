@@ -46,6 +46,14 @@ https://www.anaconda.com/products/individual
 	(base) user@computer:~$ conda list pytorch
 	(base) user@computer:~$ sudo snap install --classic code
 
+#### 3.	Update 2023-12-28
+
+	(base) user@computer:~$ conda install pytorch torchvision
+	(base) user@computer:~$ conda install -c anaconda cudatoolkit
+	(base) user@computer:~$ conda list pytorch
+	(base) user@computer:~$ sudo snap install --classic code
+ 
+
 ### 4. 	Check Anaconda installation With PyTorch for Python wilt Cudatoolkit
 
 	(base) user@computer:~$ python
