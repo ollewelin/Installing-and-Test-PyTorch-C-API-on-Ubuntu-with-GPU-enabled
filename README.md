@@ -48,7 +48,7 @@ https://www.anaconda.com/products/individual
 
 #### 3.	Update 2023-12-28
 
-	(base) user@computer:~$ conda install pytorch torchvision
+	(base) user@computer:~$ conda install -c pytorch torchvision
 	(base) user@computer:~$ conda install -c anaconda cudatoolkit
 	(base) user@computer:~$ conda list pytorch
 	(base) user@computer:~$ sudo snap install --classic code
