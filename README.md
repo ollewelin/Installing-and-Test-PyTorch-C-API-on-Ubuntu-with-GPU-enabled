@@ -46,12 +46,11 @@ https://www.anaconda.com/products/individual
 	(base) user@computer:~$ conda list pytorch
 	(base) user@computer:~$ sudo snap install --classic code
 
-#### 3.	Update 2023-12-28
+#### 3.	Update 2023-12-28 with cuda-12.1
 
-	(base) user@computer:~$ conda install -c pytorch torchvision
-	(base) user@computer:~$ conda install -c anaconda cudatoolkit
-	(base) user@computer:~$ conda list pytorch
-	(base) user@computer:~$ sudo snap install --classic code
+https://pytorch.org/get-started/locally/
+
+	(base) user@computer:~$ conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
  
 
 ### 4. 	Check Anaconda installation With PyTorch for Python wilt Cudatoolkit
